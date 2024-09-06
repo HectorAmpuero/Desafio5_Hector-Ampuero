@@ -4,8 +4,16 @@ body {
 
 /* Hero Section */
 
+.img-fluid{
+  width: 300px;
+}
+
+.navbar{
+  background-color: black;
+}
+
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/nuevo-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
